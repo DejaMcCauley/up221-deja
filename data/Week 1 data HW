@@ -1,3 +1,9 @@
-The following data sources will likely be used to support materials for the 2023 National Planning Conference Design Competition.
-- [Parks and Rec Program Sites in Philadelphia](https://www.opendataphilly.org/dataset/parks-recreation-program-sites)
-- [Philadelphia Vital Statistics - Social Determinants of Health](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-social-determinants-of-health-sdoh)
+# Dataset 1
+## Parks and Rec Program Sites in Philadelphia
+The following data sources will likely be used to support materials for the 2023 National Planning Conference Design Competition. This data set shows point location features for all PPR Program site locations. This dataset includes recreation centers, playgrounds, older adult centers, swimming pools, and environmental education centers.
+[Parks and Rec Program Sites in Philadelphia](https://www.opendataphilly.org/dataset/parks-recreation-program-sites)
+# Dataset 2
+## Philadelphia Vital Statistics - Social Determinants of Health 
+The following data sources will likely be used to support materials for the 2023 National Planning Conference Design Competition. Data shows Social determinants of health metrics at the city and planning district levels of geography. Also includes vital statistics tables that contain aggregate metrics on vital events, including natality (births) metrics and mortality (deaths) by planning district or citywide. Population metrics are provided at the city, planning district, and census tract levels of geography.
+[Philadelphia Vital Statistics - Social Determinants of Health](https://www.opendataphilly.org/dataset/philadelphia-vital-statistics-social-determinants-of-health-sdoh)
+Repo
